@@ -1,2 +1,2 @@
 # Project-Visual-Novel
-Project Game Visual Novel yang buat menggunakan c# dan di aplikasikan ke unity
+Project Game Visual Novel yang dibuat menggunakan c# dan di aplikasikan ke unity
